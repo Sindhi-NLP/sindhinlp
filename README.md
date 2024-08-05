@@ -1,6 +1,15 @@
 # Sindhi NLP
 
-A package for Sindhi language processing including stopword removal, POS tagging, and lemmatization.
+Sindhi NLP is a comprehensive toolkit for processing the Sindhi language. It includes modules for tokenization, stopword removal, POS tagging, lemmatization, and more. This package aims to facilitate natural language processing tasks for the Sindhi language, providing tools and resources for researchers and developers.
+
+## Features
+
+- **Tokenization**: Split text into words or sentences.
+- **Stopword Removal**: Remove common stopwords from text.
+- **Text Preprocessing**: Functions to remove special characters, numbers, URLs, and emojis.
+- **Lemmatization**: Convert words to their base or root form.
+- **POS Tagging**: Part-of-speech tagging for Sindhi sentences.
+- **Data Loading**: Load specific datasets for NLP tasks.
 
 ## Installation
 
