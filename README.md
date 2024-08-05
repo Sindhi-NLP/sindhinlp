@@ -178,9 +178,9 @@ python -m unittest discover -s test
 
 ## Contributing
 
-We welcome contributions to this project! To contribute, please follow the steps mentioned in [CONTRIBUTING](CONTRIBUTING)
+We welcome contributions to this project! To contribute, please follow the steps mentioned in [CONTRIBUTING.md](CONTRIBUTING)
 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE.md](LICENSE) file for details.
