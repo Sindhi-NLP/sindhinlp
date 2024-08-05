@@ -1,4 +1,3 @@
-! [Ajrak](ajrak cover.png)
 # Sindhi NLP
 
 Sindhi NLP is a comprehensive toolkit for processing the Sindhi language. It includes modules for tokenization, stopword removal, POS tagging, lemmatization, and more. This package aims to facilitate natural language processing tasks for the Sindhi language, providing tools and resources for researchers and developers.
